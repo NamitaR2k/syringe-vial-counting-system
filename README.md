@@ -40,12 +40,12 @@ Project Workflow
 
 Architecture
 
-<img width="1704" height="636" alt="image" src="https://github.com/user-attachments/assets/7d0bf18a-8c8f-4768-acf3-aaff4edda88d" />
+<img width="1138" height="400" alt="image" src="https://github.com/user-attachments/assets/7d0bf18a-8c8f-4768-acf3-aaff4edda88d" />
 
 
 Output
 
-<img width="1138" height="728" alt="image" src="https://github.com/user-attachments/assets/e311c5d5-317f-4f2f-a0a8-b57c49d91f8a" />   <img width="955" height="601" alt="image" src="https://github.com/user-attachments/assets/76cbe5ae-4d34-45dc-808a-424cfc554855" />
+<img width="1138" height="400" alt="image" src="https://github.com/user-attachments/assets/e311c5d5-317f-4f2f-a0a8-b57c49d91f8a" />   <img width="1138" height="400" alt="image" src="https://github.com/user-attachments/assets/76cbe5ae-4d34-45dc-808a-424cfc554855" />
 
 
 
